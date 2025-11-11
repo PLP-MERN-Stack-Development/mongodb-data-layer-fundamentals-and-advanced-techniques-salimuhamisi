@@ -57,3 +57,13 @@ Complete all the exercises in this assignment and push your code to GitHub using
 - [MongoDB Documentation](https://docs.mongodb.com/)
 - [MongoDB University](https://university.mongodb.com/)
 - [MongoDB Node.js Driver](https://mongodb.github.io/node-mongodb-native/) 
+
+## How to Run
+
+### 1. Insert Sample Data
+```bash
+node insert_books.js
+
+### 2. Run queries.js
+```bash
+node queries.js
